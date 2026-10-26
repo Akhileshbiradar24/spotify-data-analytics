@@ -40,29 +40,29 @@ This project analyzes Spotify's Top 10,000 tracks from 1960 to the present using
 The script uses the original dataset to generate the cleaned dataset when the original CSV is available. Otherwise, it can load the cleaned dataset directly.
 
 ## Done By
-Name: Md Arfaz Ahamed 
-Roll No: 18
-Registration Number: 251090050800
-Section: I
+Name: Md Arfaz Ahamed,
+Roll No: 18,
+Registration Number: 251090050800,
+Section: I,
 Branch:  CSE
 
-Name: Eshaan Bukinkere Rajesh
-Roll No: 40
-Registration Number: 251090051878
-Section: I
+Name: Eshaan Bukinkere Rajesh,
+Roll No: 40,
+Registration Number: 251090051878,
+Section: I,
 Branch:  CSE
 
-Name: Akhilesh biradar
-Roll No: 41
-Registration Number: 251090051880
-Section: I
+Name: Akhilesh biradar,
+Roll No: 41,
+Registration Number: 251090051880,
+Section: I,
 Branch:  CSE
 
 
-Name: Harshit S
-Roll No: 42
-Registration Number: 251090051904
-Section: I
+Name: Harshit S,
+Roll No: 42,
+Registration Number: 251090051904,
+Section: I,
 Branch:  CSE
 
 
